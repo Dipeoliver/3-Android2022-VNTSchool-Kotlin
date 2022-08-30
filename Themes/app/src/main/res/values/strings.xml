@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Themes</string>
+    <string name="btn_edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="open">Open</string>
+    <string name="text_information">Atention</string>
+    <string name="textview" translatable="false">TextView</string>
+
+</resources>
